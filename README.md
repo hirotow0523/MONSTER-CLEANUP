@@ -23,7 +23,7 @@
 
 ## 使用技術・ツール
 ・Unity(ver.6000.2.9f1)
-・AUdacity
+・Audacity
 ・Adobe Express
 
 ## 工夫した点
